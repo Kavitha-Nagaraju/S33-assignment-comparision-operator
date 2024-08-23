@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+form{
+  display:inline-block;
+  background-color: cadetblue;
+  width:80%;
+  text-align: center;
+  margin:100px;
+  border: 10px solid black;
+}
+form label{
+  display: inline-block;
+  width:30%;
+}
+span{
+  width:100px;
+  margin:10px;
+}
+input{
+  width:50%;
+}
